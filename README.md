@@ -71,7 +71,6 @@ LifeMotto   = "不想做调酒师的摄影师不是个好码农"
 -   **Baidu Experience:**
     -   Product Intern: Co-led Hackathon project (AI Storybook Creator), Managed Paddle Community Ops (Events, [Contributor Wall](http://contributors.pfcc.blog), [2024 Report](http://2024-report.pfcc.blog)), Translated LLM Course.
     -   Dev Contributor: Competed in AI Innovation Contest (Data Analysis, Model Tuning).
--   **DeepBI:** Contributed testing cycles and technical documentation ([Commits](https://github.com/DeepInsight-AI/DeepBI/commits?author=mattheliu), [Docs](https://www.deepbi.com/)).
 
 *Find more in my repositories and contribution graph!*
 </details>
@@ -80,7 +79,7 @@ LifeMotto   = "不想做调酒师的摄影师不是个好码农"
 
 ### `> find /home/mattheliu -type d -name hobbies`
 
--   **📸 Photography:** Capturing light and stories. Maybe check out [My Portfolio]([Link to your Photo Portfolio])?
+-   **📸 Photography:** Capturing light and stories.
 -   **🎵 Music:** From the raw energy of Rock to the intricate structures of Classical.
 -   **🍸 Mixology:** Crafting cocktails - precise measurements, creative results. Debugging life, one drink at a time.
 -   **🎬 Film & 📚 Books:** Consuming narratives and ideas voraciously. Always open to recommendations!
