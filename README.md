@@ -1,8 +1,11 @@
 # `> whoami`
 
-<a href="[Link to your Personal Site]">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00B8FF&center=true&vCenter=true&width=460&lines=Hey%2C+I'm+mattheliu+(Leon+LiuZX)+%F0%9F%91%8B;Welcome+to+my+digital+playground+%F0%9F%91%BE" alt="Typing SVG for mattheliu (Leon LiuZX)" />
-</a>
+<div align="center">
+  <a href="https://github.com/mattheliu">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00B8FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+mattheliu+(Leon+LiuZX)+%F0%9F%91%8B;Welcome+to+my+digital+playground+%F0%9F%91%BE" alt="Typing SVG for mattheliu (Leon LiuZX)" />
+  </a>
+</div>
+
 ---
 
 ### `> cat /etc/mattheliu.conf`
@@ -98,7 +101,7 @@ LifeMotto   = "不想做调酒师的摄影师不是个好码农"
 ### `> uptime` (GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattheliu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattheliu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattheliu&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
