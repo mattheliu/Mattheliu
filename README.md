@@ -14,8 +14,7 @@
 [Core]
 ID          = mattheliu (Leon LiuZX - 刘卓鑫)
 Born        = 2003
-Location    = Xi'an, China
-Class       = Computer Science Student
+Location    = Beijing, China / Xi'an, China
 Archetype   = ISTJ-A // Logical Mind, Adventurous Spirit
 Paradigm    = Idealistic Realist && Existential Explorer
 Affiliation = AGI Advocate, Open Source Believer
