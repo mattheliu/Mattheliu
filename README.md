@@ -12,9 +12,8 @@
 
 ```ini
 [Core]
-ID          = mattheliu (Leon LiuZX - 刘卓鑫)
+ID          = mattheliu (Leon LiuZX)
 Born        = 2003
-Location    = Beijing, China / Xi'an, China
 Archetype   = ISTJ-A // Logical Mind, Adventurous Spirit
 Paradigm    = Idealistic Realist && Existential Explorer
 Affiliation = AGI Advocate, Open Source Believer
@@ -22,9 +21,8 @@ Affiliation = AGI Advocate, Open Source Believer
 [Interests]
 Primary     = AI/ML, AIGC, Open Source, Backend -> Full-Stack Dev
 Secondary   = Photography, Music (Rock | Classical), Mixology, Film, Reading
-CurrentQuest= Exploring AI + Accessibility (Inspired by [Xia Bingying](https://www.zhihu.com/people/xia-bingying))
-LifeMotto   = "不想做调酒师的摄影师不是个好码农" 
-              // "A photographer who doesn't want to be a bartender isn't a good coder"
+CurrentQuest= Exploring AI + Accessibility 
+LifeMotto   = "A photographer who doesn't want to be a bartender isn't a good coder"
 ```
 
 ---
