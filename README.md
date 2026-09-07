@@ -42,11 +42,3 @@ into concrete engineering and product improvements.
   Version-aware plugin migration workflows, compatibility knowledge, and evals.
 - [DSH Accessibility](https://github.com/omdsh-dev/dsh-accessibility) — Accessibility
   diagnostics, assistive-technology validation, and community evidence.
-
-## Research
-
-- [RiskChainBench](https://openreview.net/forum?id=lNOqEndHex) — Core lead and first
-  author; responsible for benchmark construction, evaluation environment, model
-  experiments, analysis, and submission coordination.
-- [MAB-Bench](https://openreview.net/forum?id=uQyWuq1a7K) — Second author; collaborated
-  on supervised fine-tuning, reinforcement learning, and evaluation experiments.
