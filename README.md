@@ -1,44 +1,39 @@
 # Zhuoxin Liu (Leon)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00B8FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+mattheliu+(Leon+LiuZX)+%F0%9F%91%8B;Welcome+to+my+digital+playground+%F0%9F%91%BE" alt="Typing SVG for mattheliu (Leon LiuZX)" />
+  <a href="https://github.com/mattheliu">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00B8FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+mattheliu+(Leon+LiuZX)+%F0%9F%91%8B;Welcome+to+my+digital+playground+%F0%9F%91%BE" alt="Typing introduction for mattheliu (Leon LiuZX)" />
+  </a>
 </div>
 
 **Developer Relations · Open-source Ecosystems · AI Agent Evaluation**
 
-Based in Beijing, China. I work across developer communities, developer-facing
-engineering, and model/Agent evaluation. I care about helping developers move
-from first use to meaningful contribution, and about turning evaluation results
-into concrete engineering and product improvements.
+Beijing, China · [LinkedIn](https://www.linkedin.com/in/leonliuzx/) · [X](https://x.com/leonliuzx)
 
-[LinkedIn](https://www.linkedin.com/in/leonliuzx/) ·
-[X](https://x.com/leonliuzx)
+I have led open-source developer programs, worked as a FastDeploy PM,
+contributed engineering fixes to PaddlePaddle projects, and built evaluation
+tasks and infrastructure for coding and web Agents.
 
-## Selected work
+---
 
-- **PaddlePaddle developer ecosystem** — Led two editions of the PaddlePaddle
-  open-source hackathon and worked on contributor programs, university outreach,
-  GitHub collaboration, community documentation, and contribution analytics.
-- **FastDeploy product management** — Worked as a FastDeploy PM, identified the
-  V100/SM70 compatibility blocker, implemented the engineering adaptation,
-  completed dual-GPU concurrency validation, and contributed CI fixes supporting
-  subsequent releases. [Representative PR](https://github.com/PaddlePaddle/FastDeploy/pull/6306)
-- **Agent and model evaluation** — Built Code Editing/IRE evaluation tasks and
-  containerized multi-round execution workflows; worked on benchmark design,
-  evaluation environments, model experiments, trajectory analysis, and failure
-  diagnosis across coding, web investigation, and adaptive Agent scenarios.
-- **Open-source Agent tooling** — Built and contributed to tools for model-proof
-  verification, plugin migration, automated evaluation, and accessibility in
-  composable Agent ecosystems.
+## Selected experience
 
-## Selected projects
-
-- [Model PR Gate](https://github.com/mattheliu/model-pr-gate) — Offline verification
-  of signed model proofs for GitHub pull requests.
-- [RiskChainBench Task 1](https://github.com/mattheliu/riskchainbench-task1) and
-  [Task 2](https://github.com/mattheliu/riskchainbench-task2) — Reproducible tasks
-  for obfuscated-message reconstruction and evidence-grounded web investigation.
-- [DSH Plugin Upgrade Skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill) —
-  Version-aware plugin migration workflows, compatibility knowledge, and evals.
-- [DSH Accessibility](https://github.com/omdsh-dev/dsh-accessibility) — Accessibility
-  diagnostics, assistive-technology validation, and community evidence.
+- **PaddlePaddle developer ecosystem** — Led two open-source hackathons and
+  worked on contributor programs, university activities, documentation, GitHub
+  workflows, and community metrics. Contributed merged fixes and documentation
+  to [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR/pulls?q=is%3Apr+author%3Amattheliu)
+  and [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech/pull/3786).
+- **FastDeploy PM** — Worked on developer adoption, release support,
+  documentation, and user feedback. Identified V100/SM70 compatibility as an
+  adoption blocker, then implemented and validated the
+  [engineering adaptation](https://github.com/PaddlePaddle/FastDeploy/pull/6306)
+  and contributed related CI fixes.
+- **Agent and model evaluation** — Led Code Editing/IRE and core
+  [RiskChainBench](https://github.com/mattheliu/riskchainbench-task2) work;
+  collaborated on MAB-Bench and DF-Bench. Designed tasks and data, built
+  containerized evaluation environments, ran multi-model experiments, audited
+  results, and analyzed failure trajectories.
+- **Open-source Agent tooling** — Built
+  [Model PR Gate](https://github.com/mattheliu/model-pr-gate) and contributed to
+  [DSH plugin migration](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill)
+  and [accessibility tooling](https://github.com/omdsh-dev/dsh-accessibility).
