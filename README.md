@@ -1,5 +1,9 @@
 # Zhuoxin Liu (Leon)
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00B8FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+mattheliu+(Leon+LiuZX)+%F0%9F%91%8B;Welcome+to+my+digital+playground+%F0%9F%91%BE" alt="Typing SVG for mattheliu (Leon LiuZX)" />
+</div>
+
 **Developer Relations · Open-source Ecosystems · AI Agent Evaluation**
 
 Based in Beijing, China. I work across developer communities, developer-facing
@@ -15,9 +19,10 @@ into concrete engineering and product improvements.
 - **PaddlePaddle developer ecosystem** — Led two editions of the PaddlePaddle
   open-source hackathon and worked on contributor programs, university outreach,
   GitHub collaboration, community documentation, and contribution analytics.
-- **FastDeploy engineering** — Identified and implemented V100/SM70 compatibility
-  improvements, completed dual-GPU concurrency validation, and contributed CI
-  fixes supporting subsequent releases. [Representative PR](https://github.com/PaddlePaddle/FastDeploy/pull/6306)
+- **FastDeploy product management** — Worked as a FastDeploy PM, identified the
+  V100/SM70 compatibility blocker, implemented the engineering adaptation,
+  completed dual-GPU concurrency validation, and contributed CI fixes supporting
+  subsequent releases. [Representative PR](https://github.com/PaddlePaddle/FastDeploy/pull/6306)
 - **Agent and model evaluation** — Built Code Editing/IRE evaluation tasks and
   containerized multi-round execution workflows; worked on benchmark design,
   evaluation environments, model experiments, trajectory analysis, and failure
